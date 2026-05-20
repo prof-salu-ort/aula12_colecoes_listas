@@ -5,10 +5,6 @@
 
 lista_compras = ['ovos', 'pão', 'leite', 'presunto'] 
 print(lista_compras)
-produto_01 = 'ovos'
-produto_02 = 'pão'
-produto_03 = 'leite'
-produto_04 = 'presunto'
 
 #Dicionario (dictionary)
 # Um dicionário armazena dados em pares de chave-valor. Em vez de acessar por um índice numérico, 
