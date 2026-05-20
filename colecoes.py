@@ -1,3 +1,9 @@
+#Coleções
+#Em programação, uma coleção é uma estrutura de dados usada para agrupar múltiplos elementos 
+# (como textos, números ou outros objetos) dentro de uma única unidade. 
+# Elas servem para armazenar, organizar, buscar e manipular dados com eficiência.
+# Em python estudaremos quatro coleções: listas, dicionários, tuplas e conjuntos.
+
 #Lista (list)
 # A lista é a estrutura de dados mais versátil e comumente usada em Python. 
 # Pense nela como um "carrinho de compras" onde você pode adicionar, remover e reordenar 
